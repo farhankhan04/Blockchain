@@ -1,0 +1,454 @@
+[1;31m
+Start test 1[0m
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 1
+Timestamp: 1624830302518
+#Magic number: -6160588880948999524
+Hash of the previous block:
+0
+Hash of the block:
+A0057c128a1dcb37432ccc5465fa8ef279c2097345a801677a2d33e5f355e0257
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 1
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 2
+Timestamp: 1624830302524
+#Magic number: -6567021499679636297
+Hash of the previous block:
+A0057c128a1dcb37432ccc5465fa8ef279c2097345a801677a2d33e5f355e0257
+Hash of the block:
+A0086f376dafdbe36d334fc41967b0fe6771b7d1534fff250e24e542e0abd080c
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 2
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 3
+Timestamp: 1624830302526
+"Magic number: 5773569693441492150
+Hash of the previous block:
+A0086f376dafdbe36d334fc41967b0fe6771b7d1534fff250e24e542e0abd080c
+Hash of the block:
+A006e64959cb935fcb4250ee351f0d5a2189897699bc2b71464151284b8f2bdb0
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 3
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 4
+Timestamp: 1624830302532
+"Magic number: 6592732832078318839
+Hash of the previous block:
+A006e64959cb935fcb4250ee351f0d5a2189897699bc2b71464151284b8f2bdb0
+Hash of the block:
+A001a9385c2d5ebcb54643b63e11ee7363a4c0fe24cb1b12caa83f9225985761b
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 4
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 5
+Timestamp: 1624830302533
+"Magic number: 1123568209321690096
+Hash of the previous block:
+A001a9385c2d5ebcb54643b63e11ee7363a4c0fe24cb1b12caa83f9225985761b
+Hash of the block:
+A00c0547c705790b7d883f91f8d9e761fbfa60915207798a53aa1d691bc160dfd
+Block data:
+Sarah sent 91 VC to Alice
+#Block was generating for 0 seconds
+N was increased to 5
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 6
+Timestamp: 1624830302539
+"Magic number: 1972889067542454342
+Hash of the previous block:
+A00c0547c705790b7d883f91f8d9e761fbfa60915207798a53aa1d691bc160dfd
+Hash of the block:
+A003b57587f165e76e039bed00711a9857c00cd595ab86685f41f190db5cd3284
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 6
+
+Block:
+Created by miner # 2
+miner2 gets 100 VC
+Id: 7
+Timestamp: 1624830302543
+#Magic number: -3466398120973917414
+Hash of the previous block:
+A003b57587f165e76e039bed00711a9857c00cd595ab86685f41f190db5cd3284
+Hash of the block:
+A00a9a40e996a885ccf71d79d0f63cdbe8a5af59bbe1b3474f0e83f9c066bc721
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 7
+
+Block:
+Created by miner # 2
+miner2 gets 100 VC
+Id: 8
+Timestamp: 1624830302544
+"Magic number: 3024266605212274215
+Hash of the previous block:
+A00a9a40e996a885ccf71d79d0f63cdbe8a5af59bbe1b3474f0e83f9c066bc721
+Hash of the block:
+A004b40312c672a4d3a6a045e8450bb5852b6e0eb961ca80e921a1ce05ce97a93
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 8
+
+Block:
+Created by miner # 2
+miner2 gets 100 VC
+Id: 9
+Timestamp: 1624830302548
+#Magic number: -4711399704160130841
+Hash of the previous block:
+A004b40312c672a4d3a6a045e8450bb5852b6e0eb961ca80e921a1ce05ce97a93
+Hash of the block:
+A0062dd962e60a347f63a854f6aff2d2498733ce6cc37116e4f2dee6eb4fc2231
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 9
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 10
+Timestamp: 1624830302552
+"Magic number: 6515777151394159574
+Hash of the previous block:
+A0062dd962e60a347f63a854f6aff2d2498733ce6cc37116e4f2dee6eb4fc2231
+Hash of the block:
+A004d3de527b21fe355f5d7748ec5e0b5669d3315e233227a0129b61e28b9c75f
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 10
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 11
+Timestamp: 1624830302557
+"Magic number: 7807414105712101225
+Hash of the previous block:
+A004d3de527b21fe355f5d7748ec5e0b5669d3315e233227a0129b61e28b9c75f
+Hash of the block:
+A00ca6a0ad3c05fc5ab26fb2a7e3eae1ba4552e7a0079329c48bf66142a7abd72
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 11
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 12
+Timestamp: 1624830302561
+"Magic number: -177249281949995686
+Hash of the previous block:
+A00ca6a0ad3c05fc5ab26fb2a7e3eae1ba4552e7a0079329c48bf66142a7abd72
+Hash of the block:
+A000b3a4e143efe6f46e701f405244fb8100daba6f719b7cb6f1c7f31028f04b4
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 12
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 13
+Timestamp: 1624830302562
+"Magic number: 8021525292879822122
+Hash of the previous block:
+A000b3a4e143efe6f46e701f405244fb8100daba6f719b7cb6f1c7f31028f04b4
+Hash of the block:
+A00c36234fc164fe85027fedf2c4af8a999be535e147e7a9c94489a526d6ecefc
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 13
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 14
+Timestamp: 1624830302564
+#Magic number: -1731472883112654729
+Hash of the previous block:
+A00c36234fc164fe85027fedf2c4af8a999be535e147e7a9c94489a526d6ecefc
+Hash of the block:
+A00d183cf5560e714996dc43636d8f741d9e600d141805964e8b8f2623be4d94f
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 14
+
+Block:
+Created by miner # 2
+miner2 gets 100 VC
+Id: 15
+Timestamp: 1624830302575
+"Magic number: 7659660460429019619
+Hash of the previous block:
+A00d183cf5560e714996dc43636d8f741d9e600d141805964e8b8f2623be4d94f
+Hash of the block:
+A00dc3c4effdaeb2b13ed2516c3fa5a3f8917728fb17a70824230dcdd9ea44c45
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 15
+
+[1;31m
+Start test 2[0m
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 1
+Timestamp: 1624830302925
+"Magic number: 7348919636024997633
+Hash of the previous block:
+0
+Hash of the block:
+A002e2714b154d91cf9d3ee0c974fc19dd49ed8dd96b6e997cde5f758d7ab2e8a
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 1
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 2
+Timestamp: 1624830302927
+#Magic number: -1852056178269521287
+Hash of the previous block:
+A002e2714b154d91cf9d3ee0c974fc19dd49ed8dd96b6e997cde5f758d7ab2e8a
+Hash of the block:
+A00172635be401bddc5f105f514cec207c7eaa81210300d180f24032f95076582
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 2
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 3
+Timestamp: 1624830302929
+"Magic number: 6047714473588278730
+Hash of the previous block:
+A00172635be401bddc5f105f514cec207c7eaa81210300d180f24032f95076582
+Hash of the block:
+A009020ebed9946b053ef6753ea7837a6371212f06b9ae91ac418e372d769aa78
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 3
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 4
+Timestamp: 1624830302931
+#Magic number: -8179978124218356454
+Hash of the previous block:
+A009020ebed9946b053ef6753ea7837a6371212f06b9ae91ac418e372d769aa78
+Hash of the block:
+A00bf29ee75705b10b47f58e763809d5359e690e606b19ad51202f1a931808488
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 4
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 5
+Timestamp: 1624830302933
+"Magic number: 4988606835414425440
+Hash of the previous block:
+A00bf29ee75705b10b47f58e763809d5359e690e606b19ad51202f1a931808488
+Hash of the block:
+A0072c824f576a8f2f02c157050860bae7b0686d8f11dc4a4d15d2b75f3c53ac6
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 5
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 6
+Timestamp: 1624830302945
+#Magic number: -5424345083879470196
+Hash of the previous block:
+A0072c824f576a8f2f02c157050860bae7b0686d8f11dc4a4d15d2b75f3c53ac6
+Hash of the block:
+A0019b6e40d860601ba4ca04a25af2e5855b6abb4ccc5df0b995fe9217373f348
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 6
+
+Block:
+Created by miner # 2
+miner2 gets 100 VC
+Id: 7
+Timestamp: 1624830302948
+#Magic number: -8434548111516748749
+Hash of the previous block:
+A0019b6e40d860601ba4ca04a25af2e5855b6abb4ccc5df0b995fe9217373f348
+Hash of the block:
+A0057bae5aee5eb0298c18e5c8d6717a401057fdd4b8208f9429c576ebaafd01e
+Block data:
+Sarah sent 79 VC to Alice
+#Block was generating for 0 seconds
+N was increased to 7
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 8
+Timestamp: 1624830302950
+"Magic number: 6130627380004724901
+Hash of the previous block:
+A0057bae5aee5eb0298c18e5c8d6717a401057fdd4b8208f9429c576ebaafd01e
+Hash of the block:
+A009fa0b90cb801b058db84e09e62be696d439dd8fed97a422e25d756a2a8968d
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 8
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 9
+Timestamp: 1624830302955
+"Magic number: 8027837900294890945
+Hash of the previous block:
+A009fa0b90cb801b058db84e09e62be696d439dd8fed97a422e25d756a2a8968d
+Hash of the block:
+A00436ece7b9dd419331ca581053813c29d663f238f229511a4a1c9e1805e9789
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 9
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 10
+Timestamp: 1624830302959
+"Magic number: 7833223149391003812
+Hash of the previous block:
+A00436ece7b9dd419331ca581053813c29d663f238f229511a4a1c9e1805e9789
+Hash of the block:
+A00ea4fa7693f152c28eaf5bec613143129518f5ada2c6059a883e85fcae11da1
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 10
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 11
+Timestamp: 1624830302964
+#Magic number: -2582218190074220054
+Hash of the previous block:
+A00ea4fa7693f152c28eaf5bec613143129518f5ada2c6059a883e85fcae11da1
+Hash of the block:
+A0093553c9b5624e3cbd585db68d1445b015220b08a3cb2d9ab97887f9f21493e
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 11
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 12
+Timestamp: 1624830302966
+#Magic number: -1523151036176908771
+Hash of the previous block:
+A0093553c9b5624e3cbd585db68d1445b015220b08a3cb2d9ab97887f9f21493e
+Hash of the block:
+A001a2c9707a2bf2ce6affa787e8524f1be6e3580c46e26d49ffbba581c36e9f7
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 12
+
+Block:
+Created by miner # 1
+miner1 gets 100 VC
+Id: 13
+Timestamp: 1624830302968
+#Magic number: -1338824744336570638
+Hash of the previous block:
+A001a2c9707a2bf2ce6affa787e8524f1be6e3580c46e26d49ffbba581c36e9f7
+Hash of the block:
+A00cbf0b935af9f2d3b095d956fdf896312514da7a91574079ace5de9e869e554
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 13
+
+Block:
+Created by miner # 2
+miner2 gets 100 VC
+Id: 14
+Timestamp: 1624830302974
+!Magic number: 502611991333987151
+Hash of the previous block:
+A00cbf0b935af9f2d3b095d956fdf896312514da7a91574079ace5de9e869e554
+Hash of the block:
+A0051211eaf1cad112f4d38920af7e358ecba8ed8dc5ca1fba387aff595b12bd1
+Block data:
+No transactions
+#Block was generating for 0 seconds
+N was increased to 14
+
+Block:
+Created by miner # 2
+miner2 gets 100 VC
+Id: 15
+Timestamp: 1624830302975
+#Magic number: -5804717873735643695
+Hash of the previous block:
+A0051211eaf1cad112f4d38920af7e358ecba8ed8dc5ca1fba387aff595b12bd1
+Hash of the block:
+A0046afeb9d348b7a87329c516b7af367ce249119ea43d4e31176950777fe1969
+Block data:
+Nick sent 8 VC to Donald
+#Block was generating for 0 seconds
+N was increased to 15
+

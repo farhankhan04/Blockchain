@@ -1,0 +1,22 @@
+content:
+- LocalTime
+- LocalDateTime
+- Generics and Object
+- ArrayList
+- Introduction to Java
+- Factory method
+- Template method
+- Abstract factory
+- Singleton
+- Strategy
+- Encapsulating object creation
+- Output streams
+- Input streams
+- Serialization basics
+- Default methods
+- Threads as objects
+- Custom threads
+- Thread synchronization
+- Command
+- The while and do-while loops
+- Currying
